@@ -27,7 +27,7 @@
 <p align="left"> 
 <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://user-images.githubusercontent.com/83447089/135132412-1a9b588f-8430-4fc0-96f3-82e52a270f64.png" alt="css" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://user-images.githubusercontent.com/83447089/135132416-7ec71ea8-b108-4ca5-b053-0eba8a84130e.png" alt="html" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/bootstrap5/index.php" target="_blank"><img scr="https://user-images.githubusercontent.com/83447089/135132411-98e8f991-b123-4637-90b6-8e620ddff96a.png" atl="bootstrap5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/bootstrap5/index.php" target="_blank"><img scr="https://user-images.githubusercontent.com/83447089/135132411-98e8f991-b123-4637-90b6-8e620ddff96a.png" atl="bootstrap" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/js/default.asp" target="_blank"><img src="https://user-images.githubusercontent.com/83447089/135132423-08b2a2cb-7d5b-4c66-bd68-55f1ec72911f.png" alt="js" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/java/default.asp" target="_blank"><img scr="https://user-images.githubusercontent.com/83447089/135132417-3757cc88-4d38-44d0-8116-22e6361d7469.png" atl="java" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/asp/default.asp" target="_blank"><img scr="https://user-images.githubusercontent.com/83447089/135132390-800a48a6-fd3c-4c79-9160-8def4840b7b3.png" atl="asp" width="40" height="40"/></a>
