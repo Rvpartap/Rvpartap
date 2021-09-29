@@ -3,8 +3,6 @@
 <h2 align="center"> 🍕 An Italian Developer 🍕 </h2>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvpartap" alt="RvPartap"/></a></p>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
-
 
 <h3 align="left"> ✨ New News: </h3>
 
@@ -24,12 +22,10 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
 
 - 📞 For contact, write me here 👉 <a href="mailto:vinay.rathour@stu.fondazioneikaros.org">vinay.rathour@stu.fondazioneikaros.org</a>
 
-
 <h3 align="left">🌐 Languages and Tools that i know to Use or i'm Leaning:</h3>
 <p align="left"> 
-<p><a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS</a> - <a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML</a> - <a href="https://www.w3schools.com/bootstrap5/index.php" target="_blank">BOOTSTRAP</a> - <a href="https://www.w3schools.com/js/default.asp" target="_blank">JAVASCRIPT</a> - <a href="https://www.w3schools.com/java/default.asp" target="_blank">JAVA</a> - <a href="https://www.w3schools.com/asp/default.asp" target="_blank">ASP .NET</a> - <a href="https://www.w3schools.com/php/default.asp" target="_blank">PHP</a> - <a href="https://www.w3schools.com/python/default.asp" target="_blank">PYTHON</a></p>
-</p>
+<p><a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS</a> - <a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML</a> - <a href="https://www.w3schools.com/bootstrap5/index.php" target="_blank">BOOTSTRAP</a> - <a href="https://www.w3schools.com/js/default.asp" target="_blank">JAVASCRIPT</a> - <a href="https://www.w3schools.com/java/default.asp" target="_blank">JAVA</a> - <a href="https://www.w3schools.com/asp/default.asp" target="_blank">ASP .NET</a> - <a href="https://www.w3schools.com/php/default.asp" target="_blank">PHP</a> - <a href="https://www.w3schools.com/python/default.asp" target="_blank">PYTHON</a></p></p>
 
 <h3 align="left"> 📊 My Stats: </h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvpartap&show_icons=true&locale=en&layout=compact" alt="rvpartap" /> <img aling="center" scr="https://camo.githubusercontent.com/540c177d9cbbafd69963a1175d2b74559a17301521d346f655e25cc184c5fd09/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d72796f2d6d6126636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="rvpartap"</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvpartap&show_icons=true&locale=en&layout=compact" alt="rvpartap" /></p>
