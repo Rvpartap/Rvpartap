@@ -3,6 +3,8 @@
 <h2 align="center"> 🍕 An Italian Developer 🍕 </h2>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvpartap" alt="RvPartap"/></a></p>
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
+
 
 <h3 align="left"> ✨ New News: </h3>
 
@@ -30,4 +32,4 @@
 
 <h3 align="left"> 📊 My Stats: </h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvpartap&show_icons=true&locale=en&layout=compact" alt="rvpartap" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvpartap&show_icons=true&locale=en&layout=compact" alt="rvpartap" /> <img aling="center" scr="https://camo.githubusercontent.com/540c177d9cbbafd69963a1175d2b74559a17301521d346f655e25cc184c5fd09/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d72796f2d6d6126636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="rvpartap"</p>
