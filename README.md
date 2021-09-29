@@ -10,7 +10,7 @@
 
 - 💻 **5 October** new **Windows 11** is to be Announced!!
 
-- 😍 This is at my School will be new room/class calld Gaming Room, Yey!!
+- 😍 This year at my School will be new room/class calld Gaming Room, Yey!!
 
 <h3 align="left"> 🛠 Useful Links: </h3>
 
