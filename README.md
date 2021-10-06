@@ -8,7 +8,7 @@
 
 - 🎉 In less than **1 Year** my **FIRST NEW WEB SITE**, created by me, is about to be published!!
 
-- 💻 **5 October** new **Windows 11** as been Announced!! (Download Health Check App here --> [https://aka.ms/GetPCHealthCheckApp](https://aka.ms/GetPCHealthCheckApp)
+- 💻 **5 October** new **Windows 11** as been Announced!! (Download Health Check App here --> [https://aka.ms/GetPCHealthCheckApp](https://aka.ms/GetPCHealthCheckApp))
 
 - 😍 This year at my School will be new room/class calld Gaming Room, Yey!!
 
