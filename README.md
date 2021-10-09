@@ -24,11 +24,11 @@
 
 <h3 align="left">🌐 Languages and Tools that i know to Use or i'm Leaning:</h3>
 <p align="left"> 
-<p><a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS</a> - <a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML</a> - <a href="https://www.w3schools.com/bootstrap5/index.php" target="_blank">BOOTSTRAP</a> - <a href="https://www.w3schools.com/js/default.asp" target="_blank">JAVASCRIPT</a> - <a href="https://www.w3schools.com/java/default.asp" target="_blank">JAVA</a> - <a href="https://www.w3schools.com/asp/default.asp" target="_blank">ASP .NET</a> - <a href="https://www.w3schools.com/php/default.asp" target="_blank">PHP</a> - <a href="https://www.w3schools.com/python/default.asp" target="_blank">PYTHON</a></p></p>
+<p><a href="https://www.w3schools.com/css/default.asp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" height="30" width="40"></a> - <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" height="30" width="40"></a> - <a href="https://www.w3schools.com/bootstrap5/index.php" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/bootstrap.svg" height="30" width="40"></a> - <a href="https://www.w3schools.com/js/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/bootstrap.svg" height="30" width="40"></a> - <a href="https://www.w3schools.com/java/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" height="30" width="40"></a> - <a href="https://www.w3schools.com/asp/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg" height="30" width="40"></a> - <a href="https://www.w3schools.com/php/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/php.svg" height="30" width="40"></a> - <a href="https://www.w3schools.com/python/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" height="30" width="40"></a></p></p>
 
-<h3 align="left"> ⏰ You have been stayed on my page for:
+<h3 align="left"> ⏰ You have been stayed on my page for: </h3>
 
-<img src="https://tomchen.github.io/animated-svg-clock/clock.svg" alt="Clock" title="Clock" height="110px" max-width="110px">
+<img src="https://tomchen.github.io/animated-svg-clock/clock.svg" alt="Clock" title="Clock" height="110px" width="110px">
   
 <h3 align="left"> 📊 My Stats: </h3>
 
