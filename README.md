@@ -2,7 +2,7 @@
 
 <h2 align="center"> 🍕 An Italian Developer 🍕 </h2>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvpartap" alt="RvPartap"/></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvpartap" alt="RvPartap"/></a>&#160;&#160;&#160;<img src="https://tomchen.github.io/animated-svg-clock/clock.svg" alt="Clock" title="Clock" height="110px" max-width="110px"></p>
 
 <h3 align="left"> ✨ New News: </h3>
 
