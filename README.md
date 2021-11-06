@@ -4,14 +4,6 @@
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvpartap" alt="RvPartap"/></a>
 
-<h3 align="left"> ✨ New News: </h3>
-
-- 🎉 In less than **1 Year** my **FIRST NEW WEB SITE**, created by me, is about to be published!!
-
-- 💻 **5 October** new **Windows 11** as been Announced!! (Download Health Check App here --> [https://aka.ms/GetPCHealthCheckApp](https://aka.ms/GetPCHealthCheckApp))
-
-- 😍 This year at my School will be new room/class calld Gaming Room, Yey!!
-
 <h3 align="left"> 🛠 Useful Links: </h3>
 
 - 📑 Take a look at my Repositories 👉 [https://github.com/Rvpartap?tab=repositories](https://github.com/Rvpartap?tab=repositories)
