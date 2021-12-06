@@ -23,7 +23,7 @@
   <a href="https://www.w3schools.com/bootstrap5/index.php" target="_blank">BOOTSTRAP 5</a> - 
   <a href="https://www.w3schools.com/js/default.asp" target="_blank">JAVA SCRIPT</a> -  
   <a href="https://www.w3schools.com/java/default.asp" target="_blank">JAVA</a> -  
-  <a href="https://www.w3schools.com/asp/default.asp" target="_blank">ASP .NET</a> - 
+  <a href="https://www.w3schools.com/asp/default.asp" target="_blank">ASP</a> - 
   <a href="https://www.w3schools.com/php/default.asp" target="_blank">PHP</a> -  
   <a href="https://www.w3schools.com/python/default.asp" target="_blank">PYTHON</a>
 </p>
