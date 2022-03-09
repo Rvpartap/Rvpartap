@@ -17,16 +17,19 @@
 <h3 align="left">🌐 Languages and Tools that i know to Use or i'm Leaning:</h3>
 
 <p align="left"> 
-<p>
-  <a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS</a> - 
-  <a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML</a> -  
-  <a href="https://www.w3schools.com/bootstrap5/index.php" target="_blank">BOOTSTRAP 5</a> - 
-  <a href="https://www.w3schools.com/js/default.asp" target="_blank">JAVA SCRIPT</a> -  
-  <a href="https://www.w3schools.com/java/default.asp" target="_blank">JAVA</a> -  
-  <a href="https://www.w3schools.com/asp/default.asp" target="_blank">ASP</a> - 
-  <a href="https://www.w3schools.com/php/default.asp" target="_blank">PHP</a> -  
-  <a href="https://www.w3schools.com/python/default.asp" target="_blank">PYTHON</a>
-</p>
+  <p>
+    <a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS</a> - 
+    <a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML</a> -  
+    <a href="https://www.w3schools.com/bootstrap5/index.php" target="_blank">BOOTSTRAP 5</a> - 
+    <a href="https://www.w3schools.com/js/default.asp" target="_blank">JAVA SCRIPT</a> -  
+    <a href="https://www.w3schools.com/java/default.asp" target="_blank">JAVA</a> -  
+    <a href="https://www.w3schools.com/asp/default.asp" target="_blank">ASP</a> - 
+    <a href="https://www.w3schools.com/php/default.asp" target="_blank">PHP</a> -  
+    <a href="https://www.w3schools.com/python/default.asp" target="_blank">PYTHON</a> -
+    <a href="https://www.w3schools.com/mysql/default.asp" target="_blank">MySQL</a> -
+    <a href="https://www.w3schools.com/react/default.asp" target="_blank">React</a> -
+    <a href="https://www.w3schools.com/cs/index.php" target="_blank">C#</a>
+  </p>
 </p>
 
 <h3 align="left"> ⏰ You have been stayed on my page for: </h3>
