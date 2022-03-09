@@ -38,4 +38,4 @@
   
 <h3 align="left"> 📊 My Stats: </h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvpartap&show_icons=true&locale=en&layout=compact" alt="rvpartap" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rvpartap&show_icons=true&locale=en&layout=compact" alt="Rvpartap" /></p>
