@@ -1,6 +1,6 @@
-<h1 align="center"> Hello 👀👋 I'm RvPartap </h1>
+<h1 align="center"> Hello 👀👋 here RvPartap </h1>
 
-<h2 align="center"> 🍕 An Italian Developer 🍕 </h2>
+<h2 align="center"> 🍕 I am a Italian Developer 🍕 </h2>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvpartap" alt="RvPartap"/></a>
 
