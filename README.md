@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 I am a Web Developer passionate about technology and creativity. I design and create responsive and user-friendly websites and web applications.
 
 
-## 🌐 Socials:
+## 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rvpartap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-rathour) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19375367) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rvpartap) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rv_partap) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC42AyrqqNvsR0qeJtJ4TtNA) 
 
 # 💻 Tech Stack:
@@ -15,20 +15,17 @@ I am a Web Developer passionate about technology and creativity. I design and cr
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rvpartap&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+## 🔼 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rvpartap&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rvpartap&icon=7&color=1)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
+## 💸 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rvpartap) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
