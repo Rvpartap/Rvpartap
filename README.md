@@ -15,9 +15,6 @@ I am a Web Developer passionate about technology and creativity. I design and cr
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rvpartap&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Rv_partap)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
