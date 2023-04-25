@@ -21,9 +21,6 @@ I am a Web Developer passionate about technology and creativity. I design and cr
 ## 🔼 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rvpartap&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ## 👀 Account visualization
 [![](https://visitcount.itsvg.in/api?id=Rvpartap&icon=7&color=1)](https://visitcount.itsvg.in)
 
